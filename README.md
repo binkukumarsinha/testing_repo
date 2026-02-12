@@ -1,1 +1,3 @@
-# This is my local repo
+# Testing Repo
+This is my first testing repo
+Author - Binku 
